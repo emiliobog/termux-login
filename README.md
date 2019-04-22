@@ -1,7 +1,7 @@
 
-#[+] install and use
+#[+] install & use
 
-git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+Git clone https://github.com/emiliobog/termux-login
 
 cd Termux-Login
 
